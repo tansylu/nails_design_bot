@@ -38,7 +38,7 @@ soupsieve==1.9.1
 urllib3==1.24.1
 user-agent==0.1.9
 weblib==0.1.30
-Werkzeug==0.15.1
+Werkzeug==0.15.3
 WTForms==2.2.1
 xlrd==1.2.0
 yarg==0.1.9
